@@ -1,0 +1,81 @@
+outfit "Sunbeam"
+	weapon
+		"disabled damage" 0.5
+outfit "Sunbeam Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Dual Sunbeam Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Moonbeam"
+	weapon
+		"disabled damage" 0.5
+outfit "Moonbeam Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Shield Disruptor Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Husk-Slice"
+	weapon
+		"disabled damage" 0.5
+outfit "Husk-Slice Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Digger Mining Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Digger Mining Beam"
+	weapon
+		"disabled damage" 0.5
+outfit "Ka'het Ravager Beam"
+	weapon
+		"disabled damage" 0.5	
+outfit "Electron Beam"
+	weapon
+		"disabled damage" 0.5
+outfit "Electron Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Beam Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Laser Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Heavy Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Heavy Laser Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Mining Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Mining Laser Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Fire-Lance"
+	weapon
+		"disabled damage" 0.5
+outfit "Blaze-Pike Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Korath Inferno"
+	weapon
+		"disabled damage" 0.5
+outfit "Blue Optical Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Successor Pulse Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Pulse Laser Turret"
+	weapon
+		"disabled damage" 0.5
+outfit "Overcharged Pulse Laser"
+	weapon
+		"disabled damage" 0.5
+outfit "Overcharged Laser Turret"
+	weapon
+		"disabled damage" 0.5

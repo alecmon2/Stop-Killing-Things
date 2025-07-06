@@ -1,0 +1,959 @@
+outfit "LG Gridfire Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Crystal Projector"
+	weapon
+		"disabled damage" 0.1
+outfit "Floating Crystal"
+	weapon
+		"disabled damage" 0.1
+outfit "Crystalline Formation"
+	weapon
+		"disabled damage" 0.1
+outfit "Hexagonal Crystal"
+	weapon
+		"disabled damage" 0.1
+outfit "Prototype Fusion Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Grab-Strike"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Banisher"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Fire-Lance"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Repeater"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Repeater Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Piercer"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Piercer Rack"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Piercer Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Mine"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Mine Rack"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Minelayer"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Disruptor"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Slicer"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Slicer Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Quarg Skylance"
+	weapon
+		"disabled damage" 0.1
+outfit "Speckle Coilgun"
+	weapon
+		"disabled damage" 0.1
+outfit "Speckle Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Speck"
+	weapon
+		"disabled damage" 0.1
+outfit "Ultrarelativistic Electron Beam"
+	weapon
+		"disabled damage" 0.1
+outfit "Electron Bunch"
+	weapon
+		"disabled damage" 0.1
+outfit "External Launch Rail"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "External Launch Tube"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Medium VLS"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Nettle Active"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Nettle Flecks"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Active"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Boost"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Coast"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Divert"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Terminal"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Boost Stage Expended"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Orchid Divert Stage Expended"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Ophrys Terminal"
+	weapon
+		"disabled damage" 0.1
+		safe
+outfit "Pinecone Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Locust Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Locust Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Mandible Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Thorax Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Swarm Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Bombardment Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Bombardment Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Finisher Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Finisher Maegrolain"
+	weapon
+		"disabled damage" 0.1
+outfit "Active Finisher"
+	weapon
+		"disabled damage" 0.1
+outfit "Heliarch Attractor"
+	weapon
+		"disabled damage" 0.1
+outfit "Heliarch Repulsor"
+	weapon
+		"disabled damage" 0.1
+outfit "Ion Hail Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "ion hail"
+	weapon
+		"disabled damage" 0.1
+outfit "Ion Rain Gun"
+	weapon
+		"disabled damage" 0.1
+outfit "MCS Extractor"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Distancer"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Draining Field"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Draining Field (Augmented)"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Turret (Augmented)"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Antimatter Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Antimatter Cannon (Augmented)"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Antimatter Fragment"
+	weapon
+		"disabled damage" 0.1
+outfit "Drak Antimatter Fragment (Augmented)"
+	weapon
+		"disabled damage" 0.1
+outfit "Absorption Organ"
+	weapon
+		"disabled damage" 0.1
+outfit Mouthparts?
+	weapon
+		"disabled damage" 0.1
+outfit "Irate Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Irate Cannon Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Choleric Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Choleric Cannon Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Ballistic Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Ballistic Cannon Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Astuit Battery"
+	weapon
+		"disabled damage" 0.1
+outfit "Acuit Artillery"
+	weapon
+		"disabled damage" 0.1
+outfit "Acumen Bolt Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Guile Pulse Laser"
+	weapon
+		"disabled damage" 0.1
+outfit "Excavator"
+	weapon
+		"disabled damage" 0.1
+outfit "Burrower"
+	weapon
+		"disabled damage" 0.1
+outfit "Pulse Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Pulse Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Tripulse Shredder"
+	weapon
+		"disabled damage" 0.1
+outfit "Ion Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Ionic Blaster Prototype"
+	weapon
+		"disabled damage" 0.1
+outfit "Ionic Turret Prototype"
+	weapon
+		"disabled damage" 0.1
+outfit "Railgun"
+	weapon
+		"disabled damage" 0.1
+outfit "rslug"
+	weapon
+		"disabled damage" 0.1
+outfit "Hai Tracker Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Imaginary Weapon"
+	weapon
+		"disabled damage" 0.1
+outfit "Energy Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Twin Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Blaster Submunition"
+	weapon
+		"disabled damage" 0.1
+outfit "Blaster Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Quad Blaster Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Modified Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Twin Modified Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Modified Blaster Submunition"
+	weapon
+		"disabled damage" 0.1
+outfit "Modified Blaster Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Heavy Blaster"
+	weapon
+		"disabled damage" 0.1
+outfit "Tractor Beam"
+	weapon
+		"disabled damage" 0.1
+outfit "Particle Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Proton Gun"
+	weapon
+		"disabled damage" 0.1
+outfit "Proton Fragment"
+	weapon
+		"disabled damage" 0.1
+outfit "Proton Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Plasma Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Plasma Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Plasma Repeater"
+	weapon
+		"disabled damage" 0.1
+outfit "Flamethrower"
+	weapon
+		"disabled damage" 0.1
+outfit "Flamethrower Projectile"
+	weapon
+		"disabled damage" 0.1
+outfit "Meteor Missile Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Meteor Missile Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Sidewinder Missile Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Sidewinder Missile Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Javelin Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Javelin Mini Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Javelin Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Torpedo Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Torpedo Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Typhoon Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Typhoon Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Heavy Rocket Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Heavy Rocket Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Nuclear Missile"
+	weapon
+		"disabled damage" 0.1
+outfit "Gatling Gun"
+	weapon
+		"disabled damage" 0.1
+outfit "Gatling Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "gbullet"
+	weapon
+		"disabled damage" 0.1
+outfit "Plasma Discharger"
+	weapon
+		"disabled damage" 0.1
+outfit "plasma particle"
+	weapon
+		"disabled damage" 0.1
+outfit "Stagnation Beam"
+	weapon
+		"disabled damage" 0.1
+outfit "Star Tail"
+	weapon
+		"disabled damage" 0.1
+outfit "Star Tail Projectile"
+	weapon
+		"disabled damage" 0.1
+outfit "Horizon Grappler"
+	weapon
+		"disabled damage" 0.1
+outfit "Hicemus Conflict License"
+	weapon
+		"disabled damage" 0.1
+outfit "Strange Ray"
+	weapon
+		"disabled damage" 0.1
+outfit "Aberrant Spiker"
+	weapon
+		"disabled damage" 0.1
+		"corrosion damage" 1
+outfit "Nucleolysis Beam"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Small"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Circle Submunition"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Large"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper1 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper1 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper2 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper2 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper3 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper3 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper4 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper4 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper5 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper5 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper6 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper6 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper7 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper7 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper8 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper8 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper9 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper9 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper10 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper10 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper11 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper11 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper12 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper12 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper13 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper13 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper14 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper14 static"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper15 print"
+	weapon
+		"disabled damage" 0.1
+outfit "creeper15 static"
+	weapon
+		"disabled damage" 0.1
+outfit "asteroid launch"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Large 2"
+	weapon
+		"disabled damage" 0.1
+outfit "spin1 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "spin1 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "track1 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "track1 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "spin2 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "spin2 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "track2 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "track2 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "spin3 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "spin3 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "track3 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "track3 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "spin4 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "spin4 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "track4 print right"
+	weapon
+		"disabled damage" 0.1
+outfit "track4 print left"
+	weapon
+		"disabled damage" 0.1
+outfit "asteroid laser 1"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Large 3"
+	weapon
+		"disabled damage" 0.1
+outfit "asteroid missile"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer1"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer2"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer3"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer4"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer5"
+	weapon
+		"disabled damage" 0.1
+outfit "magic deployer6"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Large 4"
+	weapon
+		"disabled damage" 0.1
+outfit "wep1 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep2 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep3 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep4 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep5 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep6 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep7 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep8 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep9 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep10 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep11 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep12 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep13 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep14 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep15 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep16 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep17 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep18 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep19 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep20 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep21 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep22 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep23 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep24 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep25 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep26 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep27 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep28 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep29 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep30 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep31 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep32 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep33 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep34 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep35 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep36 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep37 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep38 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep39 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep40 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep41 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep42 print"
+	weapon
+		"disabled damage" 0.1
+outfit "wep static"
+	weapon
+		"disabled damage" 0.1
+outfit "Cloak Checker"
+	weapon
+		"disabled damage" 0.1
+outfit "Asteroid Weapon Super"
+	weapon
+		"disabled damage" 0.1
+outfit "asteroid fragment"
+	weapon
+		"disabled damage" 0.1
+outfit "Fuel Removal"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Machinery"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Nullifier"
+	"flotsam chance" 1
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Ravager Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Annihilator"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Annihilator Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Annihilator Projectile"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het EMP Deployer"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Emergency Deployer"
+	weapon
+		"disabled damage" 0.1
+outfit "Ka'het Electric Stunner"
+	weapon
+		"disabled damage" 0.1
+outfit "Grab-Strike Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Shunt-Strike Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Banisher Grav-Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Expeller Grav-Ray"
+	weapon
+		"disabled damage" 0.1
+outfit "Thermal Repeater"
+	weapon
+		"disabled damage" 0.1
+outfit "Thermal Repeater Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Piercer Missile Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Detainer"
+	weapon
+		"disabled damage" 0.1
+outfit "Cluster Mine Layer"
+	weapon
+		"disabled damage" 0.1
+outfit "Korath Mine Submunition"
+	weapon
+		"disabled damage" 0.1
+outfit "Langrage Hyper-Heaver"
+	weapon
+		"disabled damage" 0.1
+outfit "Heaver Shard"
+	weapon
+		"disabled damage" 0.1
+outfit "Heaver Splinter"
+	weapon
+		"disabled damage" 0.1
+outfit "Firelight Missile Bank"
+	weapon
+		"disabled damage" 0.1
+outfit "Firelight Turning"
+	weapon
+		"disabled damage" 0.1
+outfit "Firelight Activated"
+	weapon
+		"disabled damage" 0.1
+outfit "Microbot Grinder"
+	weapon
+		"disabled damage" 0.1
+outfit "Firestorm Battery"
+	weapon
+		"disabled damage" 0.1
+outfit "Nano Strike"
+	weapon
+		"disabled damage" 0.1
+outfit "Pug Zapper"
+	weapon
+		"disabled damage" 0.1
+outfit "Pug Zapper Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Pug Seeker"
+	weapon
+		"disabled damage" 0.1
+outfit "Pug Gridfire Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Skydagger"
+	weapon
+		"disabled damage" 0.1
+outfit "Skylance"
+	weapon
+		"disabled damage" 0.1
+outfit "Elysian Ranseur"
+	weapon
+		"disabled damage" 0.1
+outfit "Celestial Culverin"
+	weapon
+		"disabled damage" 0.1
+outfit "Astral Ribault"
+	weapon
+		"disabled damage" 0.1
+outfit "ribault unguided"
+	weapon
+		"disabled damage" 0.1
+outfit "ribault guided"
+	weapon
+		"disabled damage" 0.1
+outfit "Slipstream Projector"
+	weapon
+		"disabled damage" 0.1
+outfit "Inhibitor Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Inhibitor Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Thrasher Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Thrasher Turret"
+	weapon
+		"disabled damage" 0.1
+	weapon
+		"disabled damage" 0.1
+outfit "EMP Torpedo Bay"
+	weapon
+		"disabled damage" 0.1
+outfit "Teciimach Bay"
+	weapon
+		"disabled damage" 0.1
+outfit "Teciimach Pod"
+	weapon
+		"disabled damage" 0.1
+outfit "Ember Tear"
+	weapon
+		"disabled damage" 0.1
+outfit "Fate Sealer"
+	weapon
+		"disabled damage" 0.1
+outfit "Fate Sealer Activated"
+	weapon
+		"disabled damage" 0.1
+outfit "Fate Divider"
+	weapon
+		"disabled damage" 0.1
+outfit "Fate Divider Activated"
+	weapon
+		"disabled damage" 0.1
+outfit "Abyssal Composer"
+	weapon
+		"disabled damage" 0.1
+outfit "Dragonflame Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Particle Waveform Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Shard Fabricator"
+	weapon
+		"disabled damage" 0.1
+outfit "Shard inactive"
+	weapon
+		"disabled damage" 0.1
+outfit "Heavy Ion Cyclotron"
+	weapon
+		"disabled damage" 0.1
+outfit "Heavy Ion Fragment"
+	weapon
+		"disabled damage" 0.1
+outfit `"Ojet" Bimodal Coilgun`
+	weapon
+		"disabled damage" 0.1
+outfit "Bimodal Coilgun Turret"
+	weapon
+		"disabled damage" 0.1
+outfit "Bimodal Switch"
+	weapon
+		"disabled damage" 0.1
+outfit "Drag Cannon"
+	weapon
+		"disabled damage" 0.1
+outfit "Drag Projectile"
+	weapon
+		"disabled damage" 0.1
+outfit `"Sjeja" Kinetic Lance`
+	weapon
+		"disabled damage" 0.1
+outfit "Plankton Mouth"
+	weapon
+		"disabled damage" 0.1
+outfit "Astral Mouth"
+	weapon
+		"disabled damage" 0.1
+outfit "Thunderhead Launcher"
+	weapon
+		"disabled damage" 0.1
+outfit "Thunderhead"
+	weapon
+		"disabled damage" 0.1
+outfit "Pincer"
+	weapon
+		"disabled damage" 0.1
