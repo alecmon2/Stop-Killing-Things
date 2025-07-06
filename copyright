@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: {{your plugin name here}}
-Upstream-Contact: {{your name here}} <{{your email here}}>
-Source: {{your plugin github url here}}
+Upstream-Name: Stop Killing Things
+Upstream-Contact: alecmon2 <alecmon2@yahoo.com>
+Source: https://github.com/alecmon2/Stop-Killing-Things/
 
 Files: *
-Copyright: {{your name and email again}}
+Copyright: alecmon2 <alecmon2@yahoo.com>
 
 Files:
  icon*.png
