@@ -1,10 +1,7 @@
-# plugin-template
-This repository serves as a basic template to be used when creating a plugin for the game Endless Sky. Fork it and start modding!
+# Stop Killing Things
+Stop Killing Things is a personal plugin I've been using for quite a while and haven't gotten around to actually releasing. It adds the "disabled damage" attribute to every weapon I could find, with a value of 0.5 for beam weapons and 0.1 for everything else. This means beam weapons are now techically worse at disabling enemy vessels. Use this knowledge wisely.
 
-[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-
-
-## Things to do after forking:
-1. Clone your repo locally. You'll want to clone / symlink your repo within the `"plugins"` directory in your "user" directory (which is where Endless Sky writes your pilot savegames). This ensures you can update your local version of Endless Sky without worrying about losing any uncommitted & unpushed data.
-2. Flesh out your content! You can learn about all the different bits of game data in the [Endless Sky wiki](https://github.com/endless-sky/endless-sky/wiki/CreatingPlugins).
-3. [Submit your plugin for distribution](https://github.com/endless-sky/endless-sky/wiki/PluginRepository).
+## Notable things:
+I used a pretty manual process to make it and I would love it if someone could make one of those fancy Python scripts for it.
+Anything that does hull damage over time cannot be stopped by this plugin. Shunt-Strike Turrets and Firelight missiles are not your friend. 
+This plugin only works on vanilla weapons. Plugin weapons will still kill you.
